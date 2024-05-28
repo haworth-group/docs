@@ -1,5 +1,7 @@
 # Documentación de Armas
 
+La `Documentación de Armas` proporciona una visión detallada de todas las armas disponibles en el servidor de juego. Está organizada por categorías como pistolas, escopetas, subfusiles, fusiles de asalto, y rifles de francotirador. Cada arma está documentada con su tipo, munición utilizada y otros detalles relevantes.
+
 ## Pistolas
 
 ### WEAPON_COLT45
